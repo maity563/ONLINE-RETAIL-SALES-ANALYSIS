@@ -1,3 +1,5 @@
+https://github.com/maity563/ONLINE-RETAIL-SALES-ANALYSIS/blob/main/Retail_Sales_Analysis_page-0001.jpg
+
 <h1>Retail Sales Analysis</h1>
 This repository contains the Power BI report and associated resources for analyzing retail sales data. The analysis includes various insights derived from data using SQL for data extraction and transformation.
 
