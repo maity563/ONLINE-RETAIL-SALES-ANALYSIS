@@ -28,30 +28,35 @@ GitHub: For version control and project collaboration.
 
 <h1>Setup and Installation</h1>
 To get started with this project, follow these steps:
-
-Clone the Repository:
+<ol>
+<li><h3>Clone the Repository:</h3></li>li>
 
 bash
 Copy code
 git clone https://github.com/your-username/retail-sales-analysis.git
 cd retail-sales-analysis
-Install Power BI Desktop:
+
+<li><h3>Install Power BI Desktop:</h3></li>
 
 Download and install Power BI Desktop from the official website.
-Open the Power BI Report:
+
+<li><h3>Open the Power BI Report:</h3></li>
 
 Open the .pbix file in Power BI Desktop.
-Review SQL Queries:
+</ol>
+
 
 <h1>Report Features</h1>
 The Power BI report includes the following features:
 
-Sales Overview: Total sales, number of transactions, and average transaction value.
-Sales Trends: Monthly and yearly sales trends to identify peak sales periods.
-Customer Insights: Demographic breakdown of customers and their purchase behavior.
-Product Performance: Analysis of best-selling products and categories.
-SQL Queries
-The SQL queries used for data extraction and transformation are crucial for this analysis. They can be found in the /sql directory of this repository. Each query is documented with comments to explain its purpose and functionality.
+<ul>
+<li>Sales Overview: Total sales, number of transactions, and average transaction value.</li>
+<li>Sales Trends: Monthly and yearly sales trends to identify peak sales periods.</li>
+<li>Customer Insights: Demographic breakdown of customers and their purchase behavior.</li>
+<li>Product Performance: Analysis of best-selling products and categories.</li>
+<h4>SQL Queries</h4>
+<li>The SQL queries used for data extraction and transformation are crucial for this analysis. They can be found in the /sql directory of this repository. Each query is documented with comments to explain its purpose and functionality.</li>
+</ul>
 
 <h1>How to Use</h1>
 Navigate the Report: Use the tabs in the Power BI report to navigate between different sections of the analysis.
