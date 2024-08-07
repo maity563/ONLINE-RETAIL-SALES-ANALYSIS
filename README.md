@@ -2,15 +2,15 @@
 This repository contains the Power BI report and associated resources for analyzing retail sales data. The analysis includes various insights derived from data using SQL for data extraction and transformation.
 
 <h1>Table of Contents</h1>
-
-Project Overview
-Data Sources
-Technologies Used
-Setup and Installation
-Report Features
-SQL Queries
-How to Use
-
+<ul>
+<li>Project Overview</li>
+<li>Data Sources</li>
+<li>Technologies Used</li>
+<li>Setup and Installation</li>
+<li>Report Features</li>
+<li>SQL Queries</li>
+<li>How to Use</li>
+</ul>
 
 <h1>Project Overview</h1>
 The Retail Sales Analysis project aims to provide insights into the sales performance of a retail store. This includes analysis of sales trends, customer demographics, product performance, and other key metrics. The report helps stakeholders make data-driven decisions to improve business outcomes.
@@ -29,7 +29,7 @@ GitHub: For version control and project collaboration.
 <h1>Setup and Installation</h1>
 To get started with this project, follow these steps:
 <ol>
-<li><h3>Clone the Repository:</h3></li>li>
+<li><h3>Clone the Repository:</h3></li>
 
 bash
 Copy code
@@ -58,9 +58,18 @@ The Power BI report includes the following features:
 <li>The SQL queries used for data extraction and transformation are crucial for this analysis. They can be found in the /sql directory of this repository. Each query is documented with comments to explain its purpose and functionality.</li>
 </ul>
 
-<h1>How to Use</h1>
-Navigate the Report: Use the tabs in the Power BI report to navigate between different sections of the analysis.
-Interact with Visuals: Click on visuals to filter and drill down into specific data points.
-Export Data: Export visual data to Excel or other formats for further analysis.
-PDF Report
-For a detailed overview of the analysis, refer to the Retail Sales Analysis PDF.
+<h1>How to Use</h1> </br></br>
+<ul>
+<li>Navigate the Report: Use the tabs in the Power BI report to navigate between different sections of the analysis.</li>
+<li>Interact with Visuals: Click on visuals to filter and drill down into specific data points.</li>
+<li>Export Data: Export visual data to Excel or other formats for further analysis.</li>
+<li>PDF Report
+For a detailed overview of the analysis, refer to the Retail Sales Analysis PDF https://github.com/maity563/ONLINE-RETAIL-SALES-ANALYSIS/blob/main/Retail_Sales_Analysis.pdf4</li>
+</ul>
+
+
+
+
+
+
+
